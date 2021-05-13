@@ -1,4 +1,4 @@
-## tbsc库存文件
+## 库存文件
     链接前加： https://gh.api.99988866.xyz/
     
     原始链接： https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/2021.jpg
