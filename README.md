@@ -18,3 +18,5 @@ https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/error.png
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/Base64%E7%BC%96%E7%A0%81.apk
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/Base64%E7%BC%96%E7%A0%81.rar
+
+https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/tb74.jpg
