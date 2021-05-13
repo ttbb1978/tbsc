@@ -1,7 +1,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/error.png" width="100" height="100" border="0" alt="图片">
 
-## 库存文件
+### 库存文件
     
     直接在copy出来的url前加 https://gh.api.99988866.xyz/ 即可
     
@@ -9,7 +9,7 @@
     
     实例链接：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/2021.jpg
     
-## 文件链接：
+### 文件链接：
 
     http://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/Piu Piu Piu.mp3
 
