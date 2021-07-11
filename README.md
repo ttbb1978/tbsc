@@ -8,3 +8,7 @@
 原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/Bbmb.jpg
     
 实例链接：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/Bbmb.jpg
+
+### 库存文件
+
+http://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/0%2BbW27Oqze0.mp3
