@@ -5,9 +5,9 @@
     
 直接在copy出来的url前加 https://gh.api.99988866.xyz/ 即可
     
-原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/Bbmb.jpg
+原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb74.jpg
     
-实例链接：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/Bbmb.jpg
+实例链接：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb74.jpg
 
 <img src="https://www.helloimg.com/images/2021/10/16/CDSdXc.jpg" width="640" height="" border="0" alt="">
 
