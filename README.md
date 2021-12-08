@@ -1,7 +1,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/zip.gif" width="" height="" border="0" alt="图片">
 
-### 库存文件【以及加速】
+### github【文件加速】
     
 直接在copy出来的url前加 https://gh.api.99988866.xyz/ 即可
     
