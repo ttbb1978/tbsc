@@ -10,8 +10,8 @@
 实例链接：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb74.jpg
 
 <img src="https://www.helloimg.com/images/2021/10/16/CDSdXc.jpg" width="640" height="" border="0" alt="">
-<video width="320" height="240" controls="controls" autoplay="autoplay">
 
+<video width="" height="" controls="controls" autoplay="autoplay">
 <source src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4"/>
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
