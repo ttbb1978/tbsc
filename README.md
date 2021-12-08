@@ -13,6 +13,8 @@
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
 
+https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy3.mp4
+
 ### 库存文件
 
 http://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/%E9%A3%9E%E9%B8%9F%E5%92%8C%E8%9D%89.mp3
