@@ -11,9 +11,6 @@
 
 <img src="https://www.helloimg.com/images/2021/10/16/CDSdXc.jpg" width="640" height="" border="0" alt="">
 
-<video width="" height="" controls="controls" autoplay="autoplay">
-<source src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4"/>
-
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
 
 ### 库存文件
