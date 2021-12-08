@@ -15,7 +15,7 @@ https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy3.mp4
 
-https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dyx1.mp4
+https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fttbb1978%2Ftbsc%40tb01%2Fdy4.mp4
 
 ### 库存文件
 
