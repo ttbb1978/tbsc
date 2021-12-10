@@ -13,7 +13,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/%E6%8D%90%E8%B5%A0.jpg" width="320" height="320" border="0" alt="">
 
-### 库存文件
+### 库存文件⌘ k
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
 
