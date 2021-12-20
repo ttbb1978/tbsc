@@ -17,6 +17,4 @@
 
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy4.mp4
 
-https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/dy3.mp4
-
 https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/001a.jpg
