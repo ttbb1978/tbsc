@@ -15,8 +15,7 @@
 
 ### 库存文件
 
-https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/lbb.mp4
+https://real-proxy.zwc365.com/geturl/iJrRZTRS/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/lbb.mp4
 
-https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/tba1.jpg
+https://real-proxy.zwc365.com/geturl/iJrRZTRS/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb0.jpg
 
-https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/tba2.jpg
