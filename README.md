@@ -3,11 +3,11 @@
 
 ### github【文件加速】
     
-直接在url前加：https://pd.zwc365.com/cfworker/ 即可
+直接在url前加：https://pd.zwc365.com/ 即可
     
 原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tba1.jpg
     
-实例链接：https://pd.zwc365.com/cfworker/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tba1.jpg
+实例链接：https://pd.zwc365.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tba1.jpg
 
 ### 感谢捐赠
 
@@ -15,7 +15,7 @@
 
 ### 库存文件
 
-https://pd.zwc365.com/cfworker/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/lbb.mp4
+https://pd.zwc365.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/lbb.mp4
 
-https://pd.zwc365.com/cfworker/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb0.jpg
+https://pd.zwc365.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb0.jpg
 
