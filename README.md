@@ -11,11 +11,8 @@
 
 ### 感谢捐赠
 
-<img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/%E6%8D%90%E8%B5%A0.jpg" width="320" height="320" border="0" alt="">
+<img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/ttbb/jzyg.jpg" width="320" height="320" border="0" alt="">
 
 ### 库存文件
 
-https://pd.zwc365.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/lbb.mp4
-
-https://pd.zwc365.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tb0.jpg
-
+无
