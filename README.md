@@ -6,10 +6,10 @@
 直接在url前加：
 https://hub.gitmirror.com/ 即可
     
-原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tba1.jpg
+原始链接：https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/ttbb/dc36.jpg
     
 实例链接：
-https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/tba1.jpg
+https://hub.gitmirror.com/https://raw.githubusercontent.com/ttbb1978/tbsc/tb01/ttbb/dc36.jpg
 
 ### 感谢捐赠
 
