@@ -1,0 +1,1 @@
+vless://8a120517-4e0a-4ce7-ae65-1c72fabe66cf@su.bing1978.workers.dev:443?encryption=none&security=tls&sni=su.bing1978.workers.dev&fp=randomized&type=ws&host=su.bing1978.workers.dev&path=%2F%3Fed%3D2048#su.bing1978.workers.dev
