@@ -1,5 +1,7 @@
 vless://8a120517-4e0a-4ce7-ae65-1c72fabe66cf@su.bing1978.workers.dev:443?encryption=none&security=tls&sni=su.bing1978.workers.dev&fp=randomized&type=ws&host=su.bing1978.workers.dev&path=%2F%3Fed%3D2048#su.bing1978.workers.dev
 
+https://tb78.bing1978.workers.dev/303f50c2-4787-42ec-9a5a-b92eb7fbd092
+
 在线代理域名池URL
 15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
 159d770e-fd74-4069-a73b-fe6ececa7951.f82aee4c-752c-4b0c-9793-380d4d76435c.ddnsgeek.com
