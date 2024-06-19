@@ -1,6 +1,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/ttbb1978/tbsc@tb01/zip.gif" width="" height="" border="0" alt="图片">
-###找不到喜欢的伞，我宁愿淋雨
+### 找不到喜欢的伞，我宁愿淋雨
 
 ### github【文件加速】
     
