@@ -25,6 +25,17 @@ cdn.shanggan.pp.ua
 其他
 103.160.204.*
 
+www.tushencn.com     666
+www.ddwhm.com
+www.lyzdzy.com
+www.90dushu.com
+0550cq.com
+www.c333.net
+www.7749tv.com
+www.ddwhm.com
+CF https端口：2053，2083，2087，2096，8443，443 
+CF http端口：2052，2082，2086，2095，80，8080，8880
+
 美国
 achk.cloudflarest.link
 acsg.cloudflarest.link
