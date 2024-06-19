@@ -15,3 +15,18 @@ IP
 8.210.48.107 2083
 47.242.232.14 2083
 acsg3.cloudflarest.link 443
+
+香港
+ali.055500.xyz
+cdn.shanggan.pp.ua
+43.155.22.114
+47.76.94.15
+
+其他
+103.160.204.*
+
+美国
+achk.cloudflarest.link
+acsg.cloudflarest.link
+acjp2.cloudflarest.link
+acsg3.cloudflarest.link
