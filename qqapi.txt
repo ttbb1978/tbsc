@@ -1,2 +1,9 @@
+QQ查绑
 https://zy.xywlapi.cc/qqcx2023?qq=
 https://zy.xywlapi.cc/qqapi?qq=
+
+QQ头像
+http://q1.qlogo.cn/g?b=qq&nk=输入QQ号&s=640
+
+身份证号码查询
+https://www.haoshudi.com/api/id/query/?userid=
