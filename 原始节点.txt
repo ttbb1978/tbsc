@@ -12,32 +12,17 @@ https://sb-d9w.pages.dev/42cd29ef-0db9-4173-b263-e1ffaf799457
 https://sb-d9w.pages.dev/bestip/42cd29ef-0db9-4173-b263-e1ffaf799457
 
 IP
-8.210.48.107 2083
-47.242.232.14 2083
+yx.887141.xyz
+8.889288.xyz
 acsg3.cloudflarest.link 443
 
 香港
 ali.055500.xyz
 cdn.shanggan.pp.ua
-43.155.22.114
-47.76.94.15
 
 其他
 103.160.204.*
+*.cloudflare.182682.xyz
 
-www.tushencn.com     666
-www.ddwhm.com
-www.lyzdzy.com
-www.90dushu.com
-0550cq.com
-www.c333.net
-www.7749tv.com
-www.ddwhm.com
 CF https端口：2053，2083，2087，2096，8443，443 
 CF http端口：2052，2082，2086，2095，80，8080，8880
-
-美国
-achk.cloudflarest.link
-acsg.cloudflarest.link
-acjp2.cloudflarest.link
-acsg3.cloudflarest.link
