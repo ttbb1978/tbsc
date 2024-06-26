@@ -17,8 +17,9 @@ yx.887141.xyz
 acsg3.cloudflarest.link 443
 
 香港
-cdn.918518.xyz
-ali.055500.xyz
+cdn.918518.xyz  2053
+lin.200307.xyz  2053
+ali.055500.xyz  2053
 
 其他
 103.160.204.*
