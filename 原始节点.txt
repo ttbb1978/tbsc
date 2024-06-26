@@ -23,6 +23,20 @@ cdn.shanggan.pp.ua
 其他
 103.160.204.*
 *.cloudflare.182682.xyz
+time.cloudflare.com
+www.visakorea.com
+www.visa.com
+www.digitalocean.com
+www.visa.com.sg
+www.visa.com.tw
+www.shopify.com
+www.4chan.org
+www.okcupid.com
+www.udemy.com
+fbi.gov
+acjp2.cloudflarest.link
+acsg3.cloudflarest.link
+acjp2.cloudflarest.link
 
 CF https端口：2053，2083，2087，2096，8443，443 
 CF http端口：2052，2082，2086，2095，80，8080，8880
