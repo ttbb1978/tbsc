@@ -21,25 +21,17 @@ cdn.918518.xyz  2053
 lin.200307.xyz  2053
 y2.xinad.top  2053
 dd.hza1128.us.kg  2053
+tg.wxgqlfx.top
+hk.921219.xyz
+hk.aaok.vip
+__________________
 
 其他
 103.160.204.*
 *.cloudflare.182682.xyz
 
-time.cloudflare.com
-www.visakorea.com
-www.visa.com
-www.digitalocean.com
-www.visa.com.sg
-www.visa.com.tw
-www.shopify.com
-www.4chan.org
-www.okcupid.com
-www.udemy.com
-fbi.gov
-acjp2.cloudflarest.link
-acsg3.cloudflarest.link
-acjp2.cloudflarest.link
+cf.akaagiao.link  韩国
+hk.tingfeng.shop  韩国
 
 CF https端口：2053，2083，2087，2096，8443，443 
 CF http端口：2052，2082，2086，2095，80，8080，8880
