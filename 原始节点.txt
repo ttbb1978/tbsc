@@ -17,6 +17,9 @@ yx.887141.xyz
 acsg3.cloudflarest.link 443
 
 香港
+aliyun-hk.lianaishi.pub
+kr.moonriver.sbs
+
 cdn.918518.xyz  2053
 aliyun.2096.us.kg  2053
 y2.xinad.top  2053
