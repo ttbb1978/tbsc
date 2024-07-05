@@ -15,17 +15,14 @@ https://sb-d9w.pages.dev/bestip/42cd29ef-0db9-4173-b263-e1ffaf799457
 cdn.918518.xyz  2053
 aliyun.2096.us.kg  2053
 dd.hza1128.us.kg  2053
+hk.tingfeng.shop  2053
 _______________________________________
-
-韩国
-youx.yituw.link  2083
 
 其他
 103.160.204.*
 *.cloudflare.182682.xyz
 
 cf.akaagiao.link  韩国
-hk.tingfeng.shop  韩国
 
 CF https端口：2053，2083，2087，2096，8443，443 
 CF http端口：2052，2082，2086，2095，80，8080，8880
