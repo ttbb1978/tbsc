@@ -4,7 +4,9 @@ https://sb-d9w.pages.dev/bestip/42cd29ef-0db9-4173-b263-e1ffaf799457
 _______________________________________
 香港
 
+server=="cloudflare" && asn=="45102"
 server=="cloudflare" && port=="443" && asn=="45102"
+server=="cloudflare" && asn=="45102" && country="JP"
 
 bestproxy.030101.xyz  2053
 lin.200307.xyz  2053
