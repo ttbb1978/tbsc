@@ -6,7 +6,8 @@ _______________________________________
 
 server=="cloudflare" && asn=="45102"
 server=="cloudflare" && port=="443" && asn=="45102"
-server=="cloudflare" && asn=="45102" && country="JP"
+server=="cloudflare" && port=="443" && asn=="45102" && country="JP"
+server=="cloudflare" && port=="443" && asn=="45102" && region="HK"
 
 bestproxy.030101.xyz  2053
 lin.200307.xyz  2053
